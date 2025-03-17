@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Apsis.EmployeeStepsLeaderboard.Api.FunctionalTests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:12953;http://localhost:12954"
+    }
+  }
+}

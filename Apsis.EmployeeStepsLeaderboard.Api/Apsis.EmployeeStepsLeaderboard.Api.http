@@ -1,0 +1,6 @@
+@Apsis.EmployeeStepsLeaderboard.Api_HostAddress = http://localhost:5248
+
+GET {{Apsis.EmployeeStepsLeaderboard.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
